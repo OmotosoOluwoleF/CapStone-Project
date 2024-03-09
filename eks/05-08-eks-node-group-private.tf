@@ -14,7 +14,7 @@
 
 
 #   remote_access {
-#     ec2_ssh_key = "eks-tf-keypair"    
+#     ec2_ssh_key = "root-server3-paris"    
 #   }
 
 #   scaling_config {

@@ -19,10 +19,10 @@ terraform {
 
 
 data "aws_eks_cluster" "pm-dev-eks-project" {
-  name = "hr-dev-eks-demo"
+  name = "pm-dev-eks-project"
 }
 data "aws_eks_cluster_auth" "pm-dev-eks-project_auth" {
-  name = "hr-dev-eks-demo_auth"
+  name = "pm-dev-eks-project_auth"
 }
 
 

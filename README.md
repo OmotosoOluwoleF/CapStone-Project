@@ -34,7 +34,7 @@ Prometheus for monitoring and logging, ansible for security.
 - Kubernetes
 - Helm
 - Prometheus
-- ELS Stack
+- Grafana
 - Let's Encrypt
 - Socks Shop Application
 
